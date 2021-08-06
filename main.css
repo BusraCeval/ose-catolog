@@ -1,0 +1,68 @@
+/*-- ============================ NAVBAR  ============================ --*/
+.nav-link {
+    color: #04C273;
+    font-family: 'Oswald', sans-serif;
+    text-decoration-color: darkgreen;
+}
+
+/*-- ============================ HOME  ============================ --*/
+#container-home {
+    background:#04C273;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 100px;
+    color: #c3d4d6;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  }
+  #container-home img{
+    height: 400px;
+    width: 500px;
+  }
+  #container-home h1{
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-bottom: 1rem;
+    color: #04A3B5;
+  }
+  #container-home button{
+    color: rgb(211, 218, 224);
+    text-decoration: none;
+    border-radius: 3rem;
+    border-color: #04C273;
+    background: #04A3B5;
+    height: 40px;
+  }
+
+ 
+
+  /*-- ============================ Catalog  ============================ --*/
+  #container-catolog {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: #04C273;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+} 
+#container-catolog span{
+  color: #04A3B5;
+}
+
+/*-- ============================ back tor catalog  ============================ --*/
+#back button{
+  color: rgb(211, 218, 224);
+  text-decoration: none;
+  border-radius: 3rem;
+  border-color: #04C273;
+  background: #04C273;
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 30px; 
+  margin-bottom: 30px; 
+  color: rgb(211, 218, 224);
+  font-family: 'Oswald', sans-serif;
+  text: bold;
+}
