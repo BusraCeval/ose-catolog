@@ -3,6 +3,7 @@
 	margin: 0;
 	box-sizing: border-box;
 	font-family: 'Oswald', sans-serif;
+	color: #04C273;
 }
 
 body{
@@ -77,7 +78,7 @@ h2:after{
 	outline: none;
 	background-color: rgba(230, 230, 230, 0.822);
 	padding: 0.5rem 1rem;
-	font-size: 1.1rem;
+	font-size: 1rem;
 	margin-bottom: 22px;
 	transition: .3s;
 }

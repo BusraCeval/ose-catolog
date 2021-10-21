@@ -102,5 +102,8 @@
   margin-bottom: 30px; 
   color: rgb(211, 218, 224);
   font-family: 'Oswald', sans-serif;
-  text: bold;
+}
+.footer1 {
+  color: #04A3B5;
+  font-family: 'Oswald', sans-serif;
 }
