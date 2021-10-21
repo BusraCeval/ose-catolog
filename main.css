@@ -3,8 +3,7 @@
     color: #04C273;
     font-family: 'Oswald', sans-serif;
     text-decoration-color: darkgreen;
-    font-size: 30px;
-    margin-right: 25px;
+    font-size: 20px;
 }
 
 /*-- ============================ HOME  ============================ --*/
@@ -13,26 +12,25 @@
     font-family: 'Oswald', sans-serif;
     color: #f5f5f5;
   }
-  #container-home img{
+  /* #container-home img{
     height: 500px;
     width: 500px;
-  }
+  } */
   #container-home h1{
     font-weight: bold;
-    font-size: 1.5em;
-    margin-bottom: 1rem;
+    font-size: 1em;
     color: #04C273;
   }
   #container-home button{
     color: rgb(233, 233, 233);
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 8px;
     border-color: #04C273;
     background: #04A3B5;
-    height: 40px;
+    height: 30px;
   }
 .description{
-  font-size: 28px;
+  font-size: 0.5em;
   color: #f5f5f5;
 }
  /*giriş*/
@@ -77,16 +75,6 @@
   z-index: 1;
 }
 
-code {
-  padding: 0 0.15rem;
-  background: #f5f5f5;
-  border-radius: 0.2rem;
-}
-.h1 {
-  font-family: Amatic SC;
-  font-size: 40px;
-  color: #b8b8b8;
-}
 /*giriş*/
 
   /*-- ============================ Catalog  ============================ --*/
