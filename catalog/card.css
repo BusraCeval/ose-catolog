@@ -19,7 +19,7 @@
 body{
            padding: 0;
            margin:0;
-           background-color: rgb(179, 211, 247);
+           background-color: rgba(179, 211, 247, 0.445);
            font-family: "Oswald", sans-serif;
        }
 .card1{
@@ -650,8 +650,16 @@ i:hover{
 /*card*/
 .h1{
   color: #04c273;
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;  
+}
+
+.card{
+	background: #04a3b55b;
+	border: none;
+	padding: 3em 2em 0em 2em;
+	border-radius: 20px;
+	box-shadow: 50px 40px 20px rgba(0, 0, 0, 0);
 }
 /*card*/
 
